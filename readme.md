@@ -142,3 +142,9 @@ pipeline {
 ```
 
 10. Click on build project button
+
+# Add webhook to GitHub
+
+webhook syntax:
+
+`http://{ip-address}:{port-humber}/jenkins/github-webhook/`
